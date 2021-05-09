@@ -3,8 +3,8 @@
 
 ## **Education**
 ```
-BS in Telecom Engineering (2017- 2020) GPA:3.57/4<br>
-Life Science Lebanese Bacc (2016-2017) GPA: 14/20<br>
+BS in Telecom Engineering (2017- 2020) GPA:3.57/4
+Life Science Lebanese Bacc (2016-2017) GPA: 14/20
 ```
 ---
 ## **Experience**
@@ -13,6 +13,7 @@ Life Science Lebanese Bacc (2016-2017) GPA: 14/20<br>
 -
 * Installing Arch Linux OS
 * GitHub Basics
+
 -*ScoreHub Teaching Center*
 -
 Math and Physics teacher -2021 <br>
